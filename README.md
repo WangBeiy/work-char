@@ -22,7 +22,7 @@
 
 注：
 	此文件大文件，所以使用了LFS上传
-	Git LFS 配额用完：GitHub 对 LFS 免费用户有每月 1GB 带宽和 1GB 存储的限制。超出后需购买额外配额。花钱要三思，所以选择百度网盘方式存储
+	Git LFS 配额用完：GitHub 对 LFS 免费用户有每月 1GB 带宽和 1GB 存储的限制。超出后需购买额外配额。所以用git克隆时候可能会出现错误，使用github界面压缩包可能会因为网络原因导致太慢，花钱要三思，所以选择百度网盘方式存储
 
 	通过网盘分享的文件：work-char
 	链接: https://pan.baidu.com/s/1FM99mFK5unB9NxYNqpoXsA?pwd=xhu8 提取码: xhu8 
